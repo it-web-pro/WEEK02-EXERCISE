@@ -1,4 +1,4 @@
-# WEEK03-EXERCISE
+# WEEK02-EXERCISE
 
 แบบฝึกหัดสัปดาห์ที่ 2
 
